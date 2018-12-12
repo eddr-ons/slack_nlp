@@ -1,4 +1,4 @@
-pip install cookiecutter
+pipenv install cookiecutter
 pipenv install ipykernel
 pipenv install _ipyw_jlab_nb_ext_conf
 pipenv install _nb_ext_conf
@@ -48,3 +48,4 @@ pipenv install scrapy
 pipenv install shapely
 pipenv install nltk
 pipenv install alabaster
+cookiecutter https://github.com/drivendata/cookiecutter-data-science
