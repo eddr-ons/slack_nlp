@@ -1,0 +1,383 @@
+[
+    {
+        "user": "U0A1YF4MR",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1441202844.048057",
+        "text": "<@U0A1YF4MR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "added an integration to this channel: <https:\/\/doomsters.slack.com\/services\/B0A1Z3KS8|Google Calendar>",
+        "user": "U0A1YF4MR",
+        "bot_id": "B0A1Z3KS8",
+        "ts": "1441203447.000002"
+    },
+    {
+        "user": "U0A1YF4MR",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1441203707.000003",
+        "text": "<@U0A1YF4MR> set the channel topic: ALL THE THINGS",
+        "topic": "ALL THE THINGS"
+    },
+    {
+        "type": "message",
+        "text": "Controlling <@USLACKBOT|slackbot> from curl",
+        "user": "USLACKBOT",
+        "ts": "1441204410.000002"
+    },
+    {
+        "type": "message",
+        "text": "Ohai",
+        "user": "USLACKBOT",
+        "ts": "1441205108.000003"
+    },
+    {
+        "type": "message",
+        "text": "RAWR",
+        "user": "USLACKBOT",
+        "ts": "1441205146.000004"
+    },
+    {
+        "user": "U0A21THJQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1441205803.000005",
+        "text": "<@U0A21THJQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "okay!",
+        "user": "U0A21THJQ",
+        "ts": "1441205882.000006"
+    },
+    {
+        "type": "message",
+        "text": "oh hey",
+        "user": "U0A1YF4MR",
+        "ts": "1441205901.000007"
+    },
+    {
+        "type": "message",
+        "text": ":simple_smile:",
+        "user": "U0A1YF4MR",
+        "ts": "1441205902.000008"
+    },
+    {
+        "type": "message",
+        "text": "no \/slap?",
+        "user": "U0A21THJQ",
+        "ts": "1441205935.000009"
+    },
+    {
+        "type": "message",
+        "text": "boo",
+        "user": "U0A21THJQ",
+        "ts": "1441205935.000010"
+    },
+    {
+        "type": "message",
+        "text": "can add it ^^",
+        "user": "U0A1YF4MR",
+        "ts": "1441205950.000011"
+    },
+    {
+        "type": "message",
+        "text": "hehe",
+        "user": "U0A21THJQ",
+        "ts": "1441205953.000012"
+    },
+    {
+        "type": "message",
+        "text": "aah  seee",
+        "user": "U0A21THJQ",
+        "ts": "1441205991.000013"
+    },
+    {
+        "type": "message",
+        "text": "The financial report for this quarter (day) is in, Slack joining productivity has increased 100%!",
+        "user": "U0A21THJQ",
+        "ts": "1441206235.000014"
+    },
+    {
+        "type": "message",
+        "text": "Thank you, <@U0A21THJQ>.",
+        "user": "U0A1YF4MR",
+        "ts": "1441206317.000015"
+    },
+    {
+        "type": "message",
+        "text": "did it ask you for a password when you joined, btw?",
+        "user": "U0A1YF4MR",
+        "ts": "1441206331.000016"
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "has closed ticket #563401: \"Join Slack\"",
+        "user": "U0A21THJQ",
+        "ts": "1441206362.000017"
+    },
+    {
+        "type": "message",
+        "text": "it emailed me a link to a password creation form",
+        "user": "U0A21THJQ",
+        "ts": "1441206373.000018"
+    },
+    {
+        "type": "message",
+        "text": "oh, cool cool. I thought there was a universal password but oh well ¯\\_(ツ)_\/¯",
+        "user": "U0A1YF4MR",
+        "ts": "1441206402.000019"
+    },
+    {
+        "type": "message",
+        "text": "probably shared my personal password then",
+        "user": "U0A1YF4MR",
+        "ts": "1441206415.000020"
+    },
+    {
+        "type": "message",
+        "text": "hehe I didn't see anything like that",
+        "user": "U0A21THJQ",
+        "ts": "1441206425.000021"
+    },
+    {
+        "user": "U0A24NJ8H",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1441207867.000022",
+        "text": "<@U0A24NJ8H> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "ohai",
+        "user": "U0A1YF4MR",
+        "ts": "1441207963.000023"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "USLACKBOT",
+        "ts": "1441208122.000024"
+    },
+    {
+        "type": "message",
+        "text": "test",
+        "user": "USLACKBOT",
+        "ts": "1441208162.000025"
+    },
+    {
+        "type": "message",
+        "text": "Sup!",
+        "user": "U0A24NJ8H",
+        "ts": "1441208348.000026"
+    },
+    {
+        "type": "message",
+        "text": "all the things",
+        "user": "U0A1YF4MR",
+        "ts": "1441208362.000027"
+    },
+    {
+        "type": "message",
+        "text": "you've probably noticed the channels on the left",
+        "user": "U0A1YF4MR",
+        "ts": "1441208390.000028"
+    },
+    {
+        "type": "message",
+        "text": "there's also slash ('\/') commands",
+        "user": "U0A1YF4MR",
+        "ts": "1441208402.000029"
+    },
+    {
+        "type": "message",
+        "text": "and I've added our gig calendar in as an integration",
+        "user": "U0A1YF4MR",
+        "ts": "1441208414.000030"
+    },
+    {
+        "type": "message",
+        "text": "should get notifications of changes here in the <#C0A1YLG3X> channel as well as reminders",
+        "user": "U0A1YF4MR",
+        "ts": "1441208434.000031"
+    },
+    {
+        "type": "message",
+        "text": "<@U0A24NJ8H> <@U0A21THJQ> throwing @ messages at you for lolz",
+        "user": "U0A1YF4MR",
+        "ts": "1441208463.000032"
+    },
+    {
+        "type": "message",
+        "text": "It's kool, I look 'popular'",
+        "user": "U0A24NJ8H",
+        "ts": "1441208534.000033"
+    },
+    {
+        "user": "U0A2AJ6E4",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1441213114.000034",
+        "text": "<@U0A2AJ6E4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Sup crackers",
+        "user": "U0A2AJ6E4",
+        "ts": "1441213257.000035"
+    },
+    {
+        "type": "message",
+        "text": "suppp",
+        "user": "U0A1YF4MR",
+        "ts": "1441213276.000036"
+    },
+    {
+        "type": "message",
+        "text": "take a look around, brosef",
+        "user": "U0A1YF4MR",
+        "ts": "1441213283.000037"
+    },
+    {
+        "type": "message",
+        "text": "bunch of channels",
+        "user": "U0A1YF4MR",
+        "ts": "1441213298.000038"
+    },
+    {
+        "type": "message",
+        "text": "<#C0A1YL5UG> <#C0A1Z30R5> <#C0A2582GG> <#C0A25R17X> <#C0A1Z3PGF> <#C0A1YLG3X> (here) <#C0A25L0RK> <#C0A1YT56X> <#C0A1YLNKB> <#C0A1YT3RR> <#C0A1Z2XDM> <#C0A26H7PX> <#C0A269NVA> <#C0A1Z310R>",
+        "user": "U0A1YF4MR",
+        "ts": "1441213342.000039"
+    },
+    {
+        "type": "message",
+        "text": "I've added a bunch of integrations to some of them (this one mostly)",
+        "user": "U0A1YF4MR",
+        "ts": "1441213357.000040"
+    },
+    {
+        "type": "message",
+        "text": "so there'll be auto posts",
+        "user": "U0A1YF4MR",
+        "ts": "1441213362.000041"
+    },
+    {
+        "type": "message",
+        "text": "didn't realise you could have RSS streams though",
+        "user": "U0A1YF4MR",
+        "ts": "1441213371.000042"
+    },
+    {
+        "type": "message",
+        "text": "you might be able to add them yourself as well",
+        "user": "U0A1YF4MR",
+        "ts": "1441213383.000043"
+    },
+    {
+        "type": "message",
+        "text": "Herp",
+        "user": "U0A2AJ6E4",
+        "ts": "1441213525.000044"
+    },
+    {
+        "type": "message",
+        "text": "That's better",
+        "user": "U0A2AJ6E4",
+        "ts": "1441213529.000045"
+    },
+    {
+        "type": "message",
+        "text": "oo a bot just posted in <#C0A1YT3RR>",
+        "user": "U0A1YF4MR",
+        "ts": "1441213545.000046"
+    },
+    {
+        "type": "message",
+        "text": "yay for working rss",
+        "user": "U0A1YF4MR",
+        "ts": "1441213553.000047"
+    },
+    {
+        "type": "message",
+        "text": "so, are you paying for this ogre or is this a free account?",
+        "user": "U0A2AJ6E4",
+        "ts": "1441214217.000002"
+    },
+    {
+        "type": "message",
+        "text": "oh yeah, i can: so, are you paying for this <@U0A1YF4MR> or is this a free account?",
+        "user": "U0A2AJ6E4",
+        "ts": "1441214339.000003"
+    },
+    {
+        "type": "message",
+        "text": "i should probably find an actual photo of myself rather than scratching in paint for a min",
+        "user": "U0A2AJ6E4",
+        "ts": "1441215791.000004"
+    },
+    {
+        "type": "message",
+        "text": "I like it",
+        "user": "U0A24NJ8H",
+        "ts": "1441216706.000005"
+    },
+    {
+        "type": "message",
+        "text": "It looks more like you than you do",
+        "user": "U0A24NJ8H",
+        "ts": "1441216722.000006"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1441220399.000007",
+        "bot_id": "B0A1Z3KS8",
+        "attachments": [
+            {
+                "fallback": "[NOT] Space Witch \/ Garganjua \/ Iron Swan: <!date^1441306800^{date_short_pretty} from {time}|Sep 3, 2015 from 12:00 PM> to <!date^1441317600^{time}|3:00 PM GMT+0100>",
+                "text": "<!date^1441306800^{date_short_pretty} from {time}|Sep 3, 2015 from 12:00 PM> to <!date^1441317600^{time}|3:00 PM GMT+0100> at <https:\/\/maps.google.ca\/maps?q=Chameleon+Cafe+Bar%2C+17A+Angel+Row%2C+City+Centre%2C+Nottingham+NG1+6HL%2C+United+Kingdom|Chameleon Cafe Bar, 17A Angel Row, City Centre, Nottingham NG1 6HL, United Kingdom>",
+                "pretext": "Event starting in 1 day:",
+                "title": "[NOT] Space Witch \/ Garganjua \/ Iron Swan",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=bGw2NjJxb20xNzQ2djB1YTI3bXU4YTM1a2MgOGJvZzNtMGw5Y2ZndDQ4Y2JrM2xnZGs4bzBAZw",
+                "color": "ffad46",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "^^^^^^^^^^ yes bruv",
+        "user": "U0A2AJ6E4",
+        "ts": "1441221106.000008"
+    },
+    {
+        "user": "U0A2M655L",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1441222391.000009",
+        "text": "<@U0A2M655L> has joined the channel"
+    },
+    {
+        "user": "U0A2QN82X",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1441225711.000010",
+        "text": "<@U0A2QN82X> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "added <#C0A2Y5553> :simple_smile:",
+        "user": "U0A2AJ6E4",
+        "ts": "1441233960.000002"
+    }
+]
